@@ -19,3 +19,8 @@ just call bake() on an element. It will recursively bake itself and its subeleme
  * param {boolean} toCubics : use only cubic path segments
  * param {integer} dec : number of digits after decimal separator. defaults to 5
 
+## contributions:
+matrix oven is based on work by: 
+ * https://gist.github.com/timo22345/9413158 
+ * https://github.com/duopixel/Method-Draw/blob/master/editor/src/svgcanvas.js
+
